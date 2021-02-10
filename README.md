@@ -4,3 +4,9 @@ ________________________________________________________________________________
 HTML + CSS + Js + PHP + MySQL
 _________________________________________________________________________________________________________________________
 Arquivos e dependências compactados.
+__________________________________________________________________________________________________________________________
+#Aula 27 de DWebII
+- Desenvolvimento de projeto básico (sem definição de arquitetura) para conexão de PHP com MySQL;
+- Extensão utilizada - PDO
+- CDNs utilizados: Bootsrap
+- Compilação usada: Bootstrap
